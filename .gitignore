@@ -1,0 +1,16 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# JetBrains Rider
+.idea/
+**/.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
